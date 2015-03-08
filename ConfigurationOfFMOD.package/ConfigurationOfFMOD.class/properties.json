@@ -1,0 +1,14 @@
+{
+	"category" : "ConfigurationOfFMOD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LastVersionLoad" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"project" ],
+	"name" : "ConfigurationOfFMOD",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
