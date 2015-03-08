@@ -1,0 +1,15 @@
+{
+	"category" : "FMOD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"handle",
+		"channel" ],
+	"name" : "FmodSystemSound",
+	"pools" : [
+		 ],
+	"super" : "FmodObject",
+	"type" : "normal" }

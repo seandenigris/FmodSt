@@ -1,0 +1,16 @@
+{
+	"category" : "FMOD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"value",
+		"description" ],
+	"name" : "FmodError",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

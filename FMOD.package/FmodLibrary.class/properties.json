@@ -1,0 +1,14 @@
+{
+	"category" : "FMOD",
+	"classinstvars" : [
+		"current" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "FmodLibrary",
+	"pools" : [
+		"FmodTypes" ],
+	"super" : "Object",
+	"type" : "normal" }

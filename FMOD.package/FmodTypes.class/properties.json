@@ -1,0 +1,17 @@
+{
+	"category" : "FMOD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FMOD_CHANNEL",
+		"FMOD_INIT_NORMAL",
+		"FMOD_MODE",
+		"FMOD_RESULT" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FmodTypes",
+	"pools" : [
+		 ],
+	"super" : "SharedPool",
+	"type" : "normal" }

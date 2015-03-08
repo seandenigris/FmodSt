@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"new" : "SeanDeNigris 12/2/2013 11:31",
+		"newFromHandle:" : "SeanDeNigris 12/2/2013 11:42" },
+	"instance" : {
+		"handle" : "SeanDeNigris 11/30/2013 02:02",
+		"handle:" : "SeanDeNigris 11/30/2013 02:05",
+		"init" : "SeanDeNigris 12/2/2013 11:31",
+		"newSoundFromFile:" : "SeanDeNigris 11/29/2013 00:29",
+		"release" : "SeanDeNigris 12/2/2013 11:31",
+		"shutDown" : "SeanDeNigris 11/21/2013 14:28" } }

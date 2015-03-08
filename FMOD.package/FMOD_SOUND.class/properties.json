@@ -1,0 +1,15 @@
+{
+	"category" : "FMOD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FMOD_SOUND",
+	"pools" : [
+		"FmodErrorEnumeration",
+		"FmodTypes" ],
+	"super" : "NBExternalObject",
+	"type" : "normal" }

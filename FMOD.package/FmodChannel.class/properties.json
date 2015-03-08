@@ -1,0 +1,14 @@
+{
+	"category" : "FMOD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FmodChannel",
+	"pools" : [
+		 ],
+	"super" : "NBExternalObject",
+	"type" : "normal" }

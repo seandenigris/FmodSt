@@ -1,0 +1,16 @@
+{
+	"category" : "FMOD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"system",
+		"handle" ],
+	"name" : "FmodSystem",
+	"pools" : [
+		"FmodErrorEnumeration",
+		"FmodTypes" ],
+	"super" : "FmodObject",
+	"type" : "normal" }

@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"current" : "SeanDeNigris 12/2/2013 11:28",
+		"current:" : "SeanDeNigris 12/2/2013 11:28",
+		"errorNumber:" : "SeanDeNigris 12/2/2013 11:28",
+		"exampleFmodStylePlaying:" : "SeanDeNigris 12/2/2013 23:38",
+		"exampleSmalltalkStylePlaying:" : "SeanDeNigris 12/2/2013 23:39" },
+	"instance" : {
+		"FMOD_Channel_IsPlaying:storeIn:" : "SeanDeNigris 12/2/2013 23:29",
+		"FMOD_Sound_Release:" : "SeanDeNigris 12/1/2013 23:14",
+		"FMOD_System:PlaySound:on:" : "SeanDeNigris 12/1/2013 23:14",
+		"FMOD_System_Close:" : "SeanDeNigris 12/1/2013 23:14",
+		"FMOD_System_Create:" : "SeanDeNigris 12/2/2013 23:34",
+		"FMOD_System_CreateSound:to:with:" : "SeanDeNigris 12/2/2013 13:55",
+		"FMOD_System_Init:" : "SeanDeNigris 12/1/2013 23:15",
+		"FMOD_System_Release:" : "SeanDeNigris 12/1/2013 23:15",
+		"nbCallingConvention" : "SeanDeNigris 12/2/2013 14:25",
+		"nbLibraryNameOrHandle" : "SeanDeNigris 12/2/2013 11:28" } }

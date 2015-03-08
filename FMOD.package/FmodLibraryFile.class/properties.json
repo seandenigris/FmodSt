@@ -1,0 +1,15 @@
+{
+	"category" : "FMOD",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"file",
+		"nbCallingConvention" ],
+	"name" : "FmodLibraryFile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
