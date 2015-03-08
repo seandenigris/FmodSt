@@ -1,0 +1,14 @@
+{
+	"category" : "FMODSpecification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"count" ],
+	"name" : "MockFmodLibrary",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

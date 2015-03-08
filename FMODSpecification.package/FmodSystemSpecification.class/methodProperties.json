@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"library" : "SeanDeNigris 12/2/2013 11:53",
+		"resources" : "SeanDeNigris 12/2/2013 12:21",
+		"tearDown" : "SeanDeNigris 12/2/2013 11:55",
+		"testChannelIsPlaying" : "SeanDeNigris 12/2/2013 12:43",
+		"testNew" : "SeanDeNigris 12/2/2013 12:43",
+		"testNewSound" : "SeanDeNigris 12/2/2013 12:44",
+		"testPlaySound" : "SeanDeNigris 12/2/2013 12:44" } }

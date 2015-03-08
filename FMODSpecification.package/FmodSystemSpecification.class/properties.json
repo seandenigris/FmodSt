@@ -1,0 +1,14 @@
+{
+	"category" : "FMODSpecification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"library" ],
+	"name" : "FmodSystemSpecification",
+	"pools" : [
+		 ],
+	"super" : "BabyPhexample",
+	"type" : "normal" }

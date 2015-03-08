@@ -1,0 +1,14 @@
+{
+	"category" : "FMODSpecification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FmodLibraryFileSpecification",
+	"pools" : [
+		 ],
+	"super" : "BabyMockTestCase",
+	"type" : "normal" }

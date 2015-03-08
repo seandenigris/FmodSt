@@ -1,0 +1,14 @@
+{
+	"category" : "FMODSpecification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "FmodLibraryDouble",
+	"pools" : [
+		 ],
+	"super" : "TestResource",
+	"type" : "normal" }
